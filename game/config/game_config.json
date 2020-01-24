@@ -1,0 +1,18 @@
+{
+  "font": "Segoe UI",
+  "monospaced_font":  "consolas",
+  "intro_font_size" : 120,
+  "intro_duration" : 6000,
+  "login_font_size" : 50,
+  "menu_title_font_size": 70,
+  "menu_font_size": 50,
+  "interactive_menu_font_size": 25,
+  "interactive_menu_top_margin": 10,
+  "interactive_menu_left_margin": 5,
+  "creators_font_size" : 20,
+  "creators_padding" : 10,
+  "creators_font_style" : "freesansbold.ttf",
+  "controls_font": "Arial",
+  "controls_title_size": 70,
+  "controls_font_size": 50
+}

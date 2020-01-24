@@ -1,0 +1,1 @@
+WRONG_SOCKET = -10

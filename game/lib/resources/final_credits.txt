@@ -1,0 +1,13 @@
+---TWÓRCY---
+
+---MECHANIKA GRY---
+Filip Merta, Artur Kulig, Karolina Kwilosz, Filip Krzemień,
+Aleksandra Krzystanek, Marcin Łyś, Grzegorz Król
+---FABUŁA---
+Robert Kubica, Daniel Kraus, Mateusz Mardosz, Tomasz Kosacki
+---BAZA DANYCH---
+Marcin Kurdziel, Paweł Maksymowicz, Jakub Markowski
+---SERWER---
+Artur Kulig, Grzegorz Król, Filip Merta
+---GRAFIKA GRY---
+Zofia Łyko, Daniel Kraus

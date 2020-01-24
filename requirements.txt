@@ -1,0 +1,4 @@
+jsonpickle
+pygame==1.9.5
+mysql-connector==2.2.9
+

@@ -1,0 +1,9 @@
+{
+  "item_sprite_size": 64,
+  "melee": 0,
+  "distance": 1,
+  "hook_damage": 5,
+  "sword_damage": 15,
+  "wand_damage": 15,
+  "stick_damage": 5
+}

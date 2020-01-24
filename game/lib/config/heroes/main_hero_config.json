@@ -1,0 +1,8 @@
+{
+  "baseSpeed": 300,
+  "width": 40,
+  "height": 35,
+  "center_y": 20,
+  "center_x": 20,
+  "fist_damage": 5
+}

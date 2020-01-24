@@ -1,0 +1,43 @@
+{
+  "tree_hp": 100,
+  "rock1_move_left_corner_y": 15,
+  "rock1_move_left_corner_x":15,
+  "rock1_width_collision": 70,
+  "rock1_height_collision": 70,
+
+  "rock2_move_left_corner_y": 50,
+  "rock2_move_left_corner_x": 20,
+  "rock2_width_collision": 155,
+  "rock2_height_collision": 130,
+
+  "rock3_move_left_corner_y": 70,
+  "rock3_move_left_corner_x": 40,
+  "rock3_width_collision": 140,
+  "rock3_height_collision": 90,
+
+  "rock4_move_left_corner_y": 70,
+  "rock4_move_left_corner_x": 20,
+  "rock4_width_collision": 155,
+  "rock4_height_collision": 90,
+
+  "tree1_move_left_corner_y": 150,
+  "tree1_move_left_corner_x": 125,
+  "tree1_width_collision": 40,
+  "tree1_height_collision":40,
+
+  "tree2_move_left_corner_y": 100,
+  "tree2_move_left_corner_x":70,
+  "tree2_width_collision": 100,
+  "tree2_height_collision": 80,
+
+  "tree3_move_left_corner_y": 140,
+  "tree3_move_left_corner_x": 140,
+  "tree3_width_collision": 40,
+  "tree3_height_collision": 40,
+
+  "tree4_move_left_corner_y": 130,
+  "tree4_move_left_corner_x": 130,
+  "tree4_width_collision": 40,
+  "tree4_height_collision":40
+
+}

@@ -1,0 +1,8 @@
+{
+  "ipAddress": "localhost",
+  "portNumber": 7070,
+  "maxHosts": 64,
+  "maxPackage": 262144,
+  "character_start_health": 100,
+  "character_start_position": [100, 100]
+}
